@@ -8,5 +8,6 @@ ver 8.0
 ver 9.0
 ver 10.0
 ver 11.0
+ver 12.0
 ## Preface
 This repository is the sample of web application using golang.
