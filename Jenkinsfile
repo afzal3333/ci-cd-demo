@@ -4,7 +4,7 @@ tools {
 go 'go test'
 }
 environment {
-GO111MODULE='on'
+GO111MODULE ='on'
 }
 stages {
 stage('Test') {
